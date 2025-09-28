@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/84c1bc08-f957-4372-bc98-3bef29f666d1)
 
-## Description
+## Description yes 123
 
 G.A.M.M.A. stands for Gigantic Automated Modular Modpack for Anomaly. This modpack for the 100% free and standalone STALKER Anomaly changes *every* aspect of the game, from the entire economy to the minute detail statistic of every gun and artefact.
 
